@@ -1,0 +1,16 @@
+.app{
+    /* background-color: red; */
+    width: 1300px;
+    width:100%;
+    height: 100%;
+    background-color: white;
+}
+.Header{
+    width: 100%;
+    height: 60px;
+}
+.Sidebar{
+    width: 150px;
+    height: 100%;
+    background-color: red;
+}

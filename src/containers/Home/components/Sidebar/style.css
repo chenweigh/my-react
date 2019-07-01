@@ -1,0 +1,90 @@
+.sidebar{
+    width: 130px;
+    background-color: white;
+
+    display: flex;
+    flex-direction: row;
+
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.sidebar__tabs{
+    position: relative;
+    width: 100%;
+}
+.sidebar__tabContainer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    width: 100%;
+    padding-left: 25px;
+}
+.sidebar__outLine{
+    border-left: solid 3px #e1e1e1;
+    position: absolute;
+    left: 0;
+    top:15px;
+    bottom: 15px;
+}
+.sidebar__tab{
+    height: 50px;
+    width: 100%;
+
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+    position: relative;
+    cursor: pointer;
+}
+.sidebar__tab__icon{
+    width: 20px;
+    height: 20px;
+    margin-right: 5px;
+}
+.sidebar__tab__arrowDown{
+    width: 8px;
+    height: 8px;
+    border: 1.5px solid #5F0AFF;
+    transform: rotate(45deg);
+    border-top: none;
+    border-left: none;
+    margin-left: 5px;
+    margin-top: -4px;
+}
+.sidebar__tab__arrowUp{
+    width: 8px;
+    height: 8px;
+    border: 1.5px solid #5F0AFF;
+    transform: rotate(45deg);
+    border-bottom: none;
+    border-right: none;
+    margin-left: 5px;
+    margin-top: 4px;
+}
+.sidebar__innerLine{
+    position: absolute;
+    left: 0;
+    top:15px;
+    width: 3px;
+    height: 20px;
+    background-color: #141fff;
+}
+.sidebar__subTabWrapper{
+    width: 100%;
+}
+.sidebar__subTabWrapper--none{
+    display: none;
+}
+.sidebar__subTab{
+    display: flex;
+    align-items: center;
+    height: 35px;
+    padding-left: 25px;
+    cursor: pointer;
+}
+.sidebar__subTab--puple{
+    color: #141fff;
+}

@@ -1,0 +1,6 @@
+.createCourse {
+  padding: 20px;
+  padding-right: 0;
+  height: calc(100% - 40px);
+  overflow: scroll;
+}

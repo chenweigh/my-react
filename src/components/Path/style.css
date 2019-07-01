@@ -1,0 +1,20 @@
+.path{
+    display: flex;
+    flex-direction: row;
+    height: 35px;
+    align-items: center;
+    color: #333;
+    margin-bottom: 20px;
+}
+.path__item{
+}
+.path__item--click{
+    color:#5F0AFF;
+    cursor: pointer;
+}
+.path__arrow{
+    padding: 0 10px;
+}
+.path__text{
+    /* color: #333; */
+}
