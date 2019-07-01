@@ -1,0 +1,62 @@
+[{
+	"pk": 6,
+    "live_course": 10,
+    "couse_category":1,
+	"course_data": {
+		"course_code": null,
+		"course_name": "编程思维第二期"
+	},
+	"name": "十大景观设计的",
+	"members": "18839123617,111,1111111111111111,15022113870,15201052252",
+	"class_teacher": "李晓旋"
+}, {
+	"pk": 5,
+	"live_course": 2,
+	"course_data": {
+		"course_code": null,
+		"course_name": "编程思维"
+	},
+	"name": "飒飒",
+	"members": "大叔大婶",
+	"class_teacher": "马瑞"
+}, {
+	"pk": 4,
+	"live_course": 2,
+	"course_data": {
+		"course_code": null,
+		"course_name": "编程思维"
+	},
+	"name": "新建一个",
+	"members": "18839123617",
+	"class_teacher": "马瑞"
+}, {
+	"pk": 3,
+	"live_course": 16,
+	"course_data": {
+		"course_code": "test003",
+		"course_name": "test002"
+	},
+	"name": "sa试试",
+	"members": "18839123617",
+	"class_teacher": null
+}, {
+	"pk": 2,
+	"live_course": 10,
+	"course_data": {
+		"course_code": null,
+		"course_name": "编程思维第二期"
+	},
+	"name": "xiaobanke",
+	"members": "18839123617",
+	"class_teacher": "李晓旋"
+}, {
+	"pk": 1,
+	"live_course": 2,
+	"course_data": {
+		"course_code": null,
+		"course_name": "编程思维"
+	},
+	"name": "研发小班1",
+	"members": "18839123617,15201052252,13301257976,17697804115",
+	"class_teacher": "马瑞"
+}]

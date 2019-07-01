@@ -1,0 +1,82 @@
+[{
+	"pk": 9,
+	"id": 9,
+	"deleted": false,
+	"create_time": "2019-04-10T18:05:58.601843",
+	"order_index": 1000,
+	"name": "活动课",
+	"desciption": "活动课",
+	"public": false
+}, {
+	"pk": 8,
+	"id": 8,
+	"deleted": false,
+	"create_time": "2019-04-10T18:05:47.213177",
+	"order_index": 1000,
+	"name": "NOIP",
+	"desciption": "NOIP",
+	"public": false
+}, {
+	"pk": 7,
+	"id": 7,
+	"deleted": false,
+	"create_time": "2019-04-10T18:05:38.715095",
+	"order_index": 1000,
+	"name": "IGCSE",
+	"desciption": "IGCSE",
+	"public": false
+}, {
+	"pk": 6,
+	"id": 6,
+	"deleted": false,
+	"create_time": "2019-04-10T18:05:28.295396",
+	"order_index": 1000,
+	"name": "试听体验课",
+	"desciption": "试听体验课",
+	"public": true
+}, {
+	"pk": 5,
+	"id": 5,
+	"deleted": false,
+	"create_time": "2019-04-10T18:05:17.146709",
+	"order_index": 1000,
+	"name": "公开课",
+	"desciption": "公开课",
+	"public": true
+}, {
+	"pk": 4,
+	"id": 4,
+	"deleted": false,
+	"create_time": "2019-04-10T18:05:04.320200",
+	"order_index": 1000,
+	"name": "开发思维",
+	"desciption": "开发思维",
+	"public": false
+}, {
+	"pk": 3,
+	"id": 3,
+	"deleted": false,
+	"create_time": "2019-04-10T18:04:50.982385",
+	"order_index": 1000,
+	"name": "计算思维",
+	"desciption": "计算思维",
+	"public": false
+}, {
+	"pk": 2,
+	"id": 2,
+	"deleted": false,
+	"create_time": "2019-04-10T18:04:40.084744",
+	"order_index": 1000,
+	"name": "编程创作",
+	"desciption": "编程创作",
+	"public": false
+}, {
+	"pk": 1,
+	"id": 1,
+	"deleted": false,
+	"create_time": "2019-04-10T18:04:30.921940",
+	"order_index": 1000,
+	"name": "编程思维",
+	"desciption": "编程思维",
+	"public": false
+}]

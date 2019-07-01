@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{81:function(e,t,n){"use strict";n.r(t);var a=n(3),c=n(4),r=n(6),s=n(5),i=n(7),o=n(0),u=n.n(o),p=function(e){function t(){return Object(a.a)(this,t),Object(r.a)(this,Object(s.a)(t).apply(this,arguments))}return Object(i.a)(t,e),Object(c.a)(t,[{key:"render",value:function(){return u.a.createElement("div",{className:"classroomList"})}}]),t}(o.Component);t.default=p}}]);
+//# sourceMappingURL=6.ef0ee870.chunk.js.map

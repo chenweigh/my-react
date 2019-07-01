@@ -1,0 +1,38 @@
+[{
+	"pk": 8867,
+	"owner": "18839123617",
+	"name": "高菲",
+	"age": 23,
+	"diamond": 5455,
+	"red_diamond": 1067335,
+	"scholarship": 101,
+	"orange_gold": 24,
+	"sex": "F",
+	"sex_display": "女",
+	"province": "SS",
+	"city": "DSC",
+	"address": {
+		"pk": 608,
+		"shipping_address": "北京-丰台区--日月天地b座202",
+		"linkman": "高辰C"
+	},
+	"team": 1
+}, {
+	"pk": 365,
+	"owner": "15201052252",
+	"name": "啦啦啦",
+	"age": 0,
+	"diamond": 7989,
+	"red_diamond": 25000,
+	"scholarship": 0,
+	"orange_gold": 0,
+	"sex": null,
+	"sex_display": null,
+	"province": null,
+	"city": "",
+	"address": {
+		"shipping_address": "",
+		"linkman": ""
+	},
+	"team": 2
+}]
