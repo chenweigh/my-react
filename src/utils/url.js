@@ -1,7 +1,4 @@
 export default {
-  // 登录
-  login: () => `/server/userinfo/login/`,
-
   //直播分类列表
   getLiveCourseCategory:() => `mock/course/course_category.json`,
 
