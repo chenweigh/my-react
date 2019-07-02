@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/react-school-management-system/static/css/main.30b40ce2.chunk.css",
-    "main.js": "/react-school-management-system/static/js/main.e5c7328f.chunk.js",
-    "main.js.map": "/react-school-management-system/static/js/main.e5c7328f.chunk.js.map",
+    "main.js": "/react-school-management-system/static/js/main.b2079969.chunk.js",
+    "main.js.map": "/react-school-management-system/static/js/main.b2079969.chunk.js.map",
     "runtime~main.js": "/react-school-management-system/static/js/runtime~main.64feafe6.js",
     "runtime~main.js.map": "/react-school-management-system/static/js/runtime~main.64feafe6.js.map",
     "static/js/2.626b24b8.chunk.js": "/react-school-management-system/static/js/2.626b24b8.chunk.js",
@@ -21,7 +21,7 @@
     "static/js/7.f10fef3c.chunk.js": "/react-school-management-system/static/js/7.f10fef3c.chunk.js",
     "static/js/7.f10fef3c.chunk.js.map": "/react-school-management-system/static/js/7.f10fef3c.chunk.js.map",
     "index.html": "/react-school-management-system/index.html",
-    "precache-manifest.ace7245cfab3959b52d08841a2731d9c.js": "/react-school-management-system/precache-manifest.ace7245cfab3959b52d08841a2731d9c.js",
+    "precache-manifest.71a3ed48081b53de6125d4277fec2772.js": "/react-school-management-system/precache-manifest.71a3ed48081b53de6125d4277fec2772.js",
     "service-worker.js": "/react-school-management-system/service-worker.js",
     "static/css/3.29eab2e4.chunk.css.map": "/react-school-management-system/static/css/3.29eab2e4.chunk.css.map",
     "static/css/4.37fe5755.chunk.css.map": "/react-school-management-system/static/css/4.37fe5755.chunk.css.map",
